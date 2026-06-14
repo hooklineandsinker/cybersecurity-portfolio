@@ -178,4 +178,3 @@ pip uninstall atomic-operator --break-system-packages
 - [Official Kali 2026.1 Release Notes](https://www.kali.org/blog/kali-linux-2026-1-release/)
 - [Kali Linux Updating Documentation](https://www.kali.org/docs/general-use/updating-kali/)
 - [XSStrike GitHub](https://github.com/s0md3v/XSStrike)
-oading README.md…]()
